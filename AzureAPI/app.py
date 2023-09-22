@@ -2,6 +2,7 @@ from flask import Flask, jsonify
 from flask import render_template
 from AzureCLI import *
 
+#random comment
 
 azureAPI = Flask(__name__)
 
